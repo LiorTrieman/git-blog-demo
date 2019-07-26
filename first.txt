@@ -1,2 +1,1 @@
-Added some changes
-My first file in git
+Added some changesI have changed this file
